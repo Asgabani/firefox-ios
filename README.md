@@ -85,7 +85,7 @@ It is possible to use [App Code](https://www.jetbrains.com/objc/download/) inste
 
 ### Whitespace
 * New code should not contain any trailing whitespace.
-* We recommend enabling both the "Automatically trim trailing whitespace" and "Including whitespace-only lines" preferences in Xcode (under Text Editing).
+* We recommend enabling both the "<b>Automatically trim trailing whitespace</b>" and "Including whitespace-only lines" preferences in Xcode (under Text Editing).
 * <code>git rebase --whitespace=fix</code> can also be used to remove whitespace from your commits before issuing a pull request.
 
 ### Commits
